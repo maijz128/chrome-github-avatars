@@ -1,4 +1,4 @@
-### Avatars for Github Chrome Extension
+### Avatars for Github Tampermonkey
 ---
 
 display user avatars on the Github news feed, nothing more, nothing less..
