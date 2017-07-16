@@ -1,14 +1,14 @@
-### Avatars for Github Tampermonkey
+### [Avatars for Github Tampermonkey](https://github.com/maijz128/tampermonkey-github-avatars)
 ---
 
 display user avatars on the Github news feed, nothing more, nothing less..
 
 #### Preview
 
-![Preview](screenshots/github-avatars.png)
+![Preview](https://github.com/maijz128/tampermonkey-github-avatars/raw/master/screenshots/github-avatars.png)
 
 ---
 
 ### Installation
 
-[Download from Chrome Web Store](https://chrome.google.com/webstore/detail/avatars-for-github/pgjmdbklnfklcjfbonjfkdhaonlfogbb)
+[Greasy Fork](https://greasyfork.org/scripts/31500-github-avatars)
