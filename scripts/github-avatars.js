@@ -2,7 +2,7 @@
 // @name            GitHub-Avatars
 // @namespace       MaiJZ
 // @version         0.1
-// @description     display avatars in github news feed.
+// @description     display avatars in github news feed. (在GitHub主页动态中显示头像。)
 // @author          MaiJZ
 // @originalAuthor  https://github.com/anasnakawa/chrome-github-avatars
 // @homepageURL     https://github.com/maijz128/tampermonkey-github-avatars
